@@ -12,9 +12,7 @@ print('-'*50)
 
 # simple for loop :type all numbers from 1 to 10
 
-print('-'*50)
-for num in range(10):
-    print(num+1)
+
 
 print('-'*50)
 
